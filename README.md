@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adil Ishtiaq</h1>
 
 <h3 align="center">
-Full Stack Developer • IT Student • Building Modern Web Applications
+Full Stack Developer & IT Student 
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ I enjoy building modern, responsive, and scalable web applications with clean us
 - Full Stack Developer
 - Currently learning **Node.js, Express.js & MongoDB**
 - Building full-stack web applications with the **MERN Stack**
-- Lahore, Pakistan
+- Based in Lahore, Pakistan
 - Always learning and improving my development skills
 
 ---
