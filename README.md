@@ -46,7 +46,7 @@ I enjoy building modern, responsive, and scalable web applications with clean us
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -64,7 +64,7 @@ I enjoy building modern, responsive, and scalable web applications with clean us
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - 🌐 Website: **https://ranaadil.netlify.app/**
 - 📧 Email: **adilishtiaq034@gmail.com**
