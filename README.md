@@ -17,7 +17,6 @@ I enjoy building modern, responsive, and scalable web applications with clean us
 
 - BBIT Student
 - Full Stack Developer
-- Currently learning **Node.js, Express.js & MongoDB**
 - Building full-stack web applications with the **MERN Stack**
 - Based in Lahore, Pakistan
 - Always learning and improving my development skills
@@ -66,7 +65,6 @@ I enjoy building modern, responsive, and scalable web applications with clean us
 
 ## Connect With Me
 
-- 🌐 Website: **https://ranaadil.netlify.app/**
 - 📧 Email: **adilishtiaq034@gmail.com**
 
 
