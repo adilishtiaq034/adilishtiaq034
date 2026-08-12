@@ -88,17 +88,17 @@ people actually use.
 
 <tr>
 <td><b>🌤️ Weather App</b></td>
-<td>Real-time conditions and forecasts via the OpenWeather API.</td>
+<td>Real time conditions and forecasts via the OpenWeather API.</td>
 </tr>
 
 <tr>
 <td><b>📝 Notes Manager</b></td>
-<td>Lightweight note-taking app with persistent local storage — no backend, no bloat.</td>
+<td>Lightweight note-taking app with persistent local storage no backend and no bloat.</td>
 </tr>
 
 <tr>
 <td><b>✅ TaskTracker</b></td>
-<td>Simple task manager for organizing and tracking daily to-dos.</td>
+<td>Simple task manager for organizing and tracking daily to dos.</td>
 </tr>
 
 </table>
