@@ -78,7 +78,7 @@ people actually use.
 
 <tr>
 <td><b>🛒 Ecommerce Store</b></td>
-<td>Full storefront experience — product browsing, cart, and checkout flow, fully responsive.</td>
+<td>Full storefront experience product browsing, cart, checkout flow and fully responsive.</td>
 </tr>
 
 <tr>
