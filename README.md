@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/📖_ABOUT-0F172A?style=for-the-badge&labelColor=1E3A8A&color=1E3A8A"/>
 
 I build web apps end to end from the database schema to the pixel on screen.
-No fluff and no half finished side projects.if it's on my profile, it runs.
+No fluff and no half finished side projects.so if it's on my profile, it runs.
 I care about clean structure, code that reads like prose, and shipping things
 people actually use.
 
