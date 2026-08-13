@@ -73,7 +73,7 @@ people actually use.
 
 <tr>
 <td><b>🤖 AI Chatbot</b></td>
-<td>Conversational chatbot built on React, wired to the OpenRouter API for real-time AI responses.</td>
+<td>Conversational chatbot built on React, wired to the OpenRouter API for real time AI responses.</td>
 </tr>
 
 <tr>
