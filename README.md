@@ -21,7 +21,7 @@
 
 I build web apps end to end from the database schema to the pixel on screen.
 No fluff and no half finished side projects.If it's on my profile, it runs.
-I care about clean structure, code that reads like prose, and shipping things that
+I care about clean structure and code that reads like prose, and shipping things that
 people actually use.
 
 <br/>
