@@ -8,7 +8,7 @@
 <br/>
 
 ```diff
-+ Currently building     A full-stack ecommerce platform (MERN)
++ Currently building an     A full-stack  ecommerce platform 
 + Currently learning     System Design and Architecture
 + Open to collaborate    Open-source web projects
 ! Need help with         Backend architecture & CI/CD deployment
