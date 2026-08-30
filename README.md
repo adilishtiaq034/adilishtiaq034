@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/📖_ABOUT-0F172A?style=for-the-badge&labelColor=1E3A8A&color=1E3A8A"/>
 
-I build web applications end to end from the database schema to the pixel on screen.
+I build web apps end to end from the database schema to the pixel on screen.
 No fluff and no half finished side projects.If it's on my profile, it runs.
 I care about clean structure and code that reads like prose, and shipping things that
 people actually use.
