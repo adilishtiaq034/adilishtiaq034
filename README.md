@@ -12,7 +12,7 @@
 + Currently learning     System Design and Architecture
 + Open to collaborate    Open-source web projects
 ! Need help with         Backend architecture & CI/CD deployment
-# Ask me about           React.js · Node.js · MongoDB
+# Ask me about           React.js · Node · MongoDB
 ```
 
 <br/>
