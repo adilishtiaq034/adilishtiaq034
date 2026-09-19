@@ -87,7 +87,7 @@ people actually use.
 
 <tr>
 <td><b>🌤️ Weather App</b></td>
-<td>Real time conditions and forecasts via the OpenWeather API.</td>
+<td>Real time conditions and forecast via the OpenWeather API.</td>
 </tr>
 
 <tr>
