@@ -97,7 +97,7 @@ people actually use.
 
 <tr>
 <td><b>✅ TaskTracker</b></td>
-<td>Simple task manager for organizing and tracking daily to dos.</td>
+<td>Simple task manager for organizing and tracking daily tasks.</td>
 </tr>
 
 </table>
